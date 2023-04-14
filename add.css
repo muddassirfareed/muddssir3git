@@ -1,0 +1,48 @@
+.image{
+    height: 700px;
+    width: 790px; 
+    border: 1px solid gray;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    
+}
+.p1{
+    height: 220px;
+    width: 480px;
+    border: 1px solid gray;
+    font-size: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+#maindiv,.p2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.like{
+    color: black;
+    margin-top: 30px;
+}
+.men{
+    margin-left: 20px;
+}
+.seller{
+    height: 40px;
+    width: 400px;
+    background-color: darkgreen;
+    color: aliceblue;
+    margin-top: 15px;
+    margin-left: 40px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.p3{
+    height: 350px;
+    width: 480px;
+    border: 1px groove gray;
+    font-size: 20px;
+    margin-top: 50px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.call{
+    margin-left: 70px;
+    margin-top: 30px;
+}

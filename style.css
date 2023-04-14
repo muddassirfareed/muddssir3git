@@ -1,0 +1,11 @@
+#main1,#main2,#main3{
+    display: flex;
+    margin-left: 60px;
+    justify-content: space-between ;
+    margin-right: 60px;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+.card-body{
+    height: 170px !important;
+}
